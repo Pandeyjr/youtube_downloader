@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: youtube_downloader
+Version: 0.1
+Summary: A simple Python YouTube downloader
+Home-page: https://github.com/Pandeyjr/youtube_downloader
+Author: Kiran Pandey
+Author-email: kp842586@gmail.com
+Requires-Dist: yt-dlp
